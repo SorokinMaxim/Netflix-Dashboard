@@ -1,4 +1,4 @@
-# Netflix Content Dashboard — Power BI
+# Netflix Content Dashboard in Power BI
 
 
 
