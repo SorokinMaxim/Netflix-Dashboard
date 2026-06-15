@@ -2,7 +2,7 @@
 
 
 
-\## Introduction
+# Introduction
 
 
 
@@ -41,19 +41,13 @@ This dashboard was created to explore and analyze the Netflix content library us
 
 
 
-\## Dashboard Overview
-
-
+## Dashboard Overview
 
 Single Page Dashboard
 
-
-
-
+<img width="1292" height="717" alt="Netflix Dashboard" src="https://github.com/user-attachments/assets/894f360b-926c-4a71-b726-40772533ff6d" />
 
 The dashboard answers six core questions at a glance:
-
-
 
 \-   \*\* How big is the library? — KPI cards show 6,127 Movies and 2,676 TV Shows.
 
