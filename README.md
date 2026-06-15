@@ -1,8 +1,8 @@
-## Netflix Content Dashboard — Power BI
+# Netflix Content Dashboard — Power BI
 
 
 
-# Introduction
+## Introduction
 
 
 
@@ -13,17 +13,17 @@ This dashboard was created to explore and analyze the Netflix content library us
 
 
 
-\-   \*\* Data Transformation (ETL) with Power Query: Cleaned raw CSV data by trimming whitespace from multi-value columns, handling nulls in country and date fields, extracting year and month from text-based date columns, and splitting the genre column into separate rows to enable accurate counting.
+-   ** Data Transformation (ETL) with Power Query: Cleaned raw CSV data by trimming whitespace from multi-value columns, handling nulls in country and date fields, extracting year and month from text-based date columns, and splitting the genre column into separate rows to enable accurate counting.
 
-\-   \*\* Data Modeling: Built a junction table "netflix\_genres" to handle the many-to-many relationship between titles and genres, connected it to the main table via show\_id, and configured bidirectional cross-filtering to enable genre-based filtering across the whole dashboard.
+-   ** Data Modeling: Built a junction table "netflix\_genres" to handle the many-to-many relationship between titles and genres, connected it to the main table via show\_id, and configured bidirectional cross-filtering to enable genre-based filtering across the whole dashboard.
 
-\-   \*\* DAX Measures: Written measures for Most Common Age Rating, Average Movie Duration, and Average TV Show Duration.
+-   ** DAX Measures: Written measures for Most Common Age Rating, Average Movie Duration, and Average TV Show Duration.
 
-\-   \*\* Core Charts: Used Bar, Area, Treemap, Pie, and Line charts to answer specific analytical questions rather than just display data.
+-   ** Core Charts: Used Bar, Area, Treemap, Pie, and Line charts to answer specific analytical questions rather than just display data.
 
-\-   \*\* KPI Cards: Displayed key metrics: Total Movies, Total TV Shows, Most Common Rating, Avg Movie Duration, and Avg TV Show Seasons.
+-   ** KPI Cards: Displayed key metrics: Total Movies, Total TV Shows, Most Common Rating, Avg Movie Duration, and Avg TV Show Seasons.
 
-\-   \*\* Dashboard Design: Designed a single-page dark-theme dashboard inspired by Netflix's own color panel and rounded card borders
+-   ** Dashboard Design: Designed a single-page dark-theme dashboard inspired by Netflix's own color panel and rounded card borders
 
 
 
