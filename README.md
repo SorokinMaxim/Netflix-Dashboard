@@ -9,7 +9,7 @@
 This dashboard was created to explore and analyze the Netflix content library using a real-world dataset. This project allowed me to work through the full data analytics routine: from cleaning raw messy data to building interactive dashboard.
 
 
-## Skills Showcased
+## Skills
 
 
 
